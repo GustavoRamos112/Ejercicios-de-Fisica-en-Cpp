@@ -2,7 +2,7 @@
 //Itz n*i siendo n un numero entero e i = 1, 2, 3, ..., 10.
 
 //* Indicaciones: Hacer un programa que escriba en un archivo de datos (.dat)
-//* las tablas de multiplicar el 1 hasta el 10
+//* las tablas de multiplicar el 1 hasta el 10.
 
 
 #include <iostream>
