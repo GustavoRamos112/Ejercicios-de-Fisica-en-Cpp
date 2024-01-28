@@ -34,7 +34,6 @@ Y ya teniendo un compilador de c++, simplemente ejecutas:
 
 ```
 g++ nombre.cpp -o nombrei
-
 ./nombrei
 ```
 
