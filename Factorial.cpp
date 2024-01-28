@@ -1,4 +1,4 @@
-//Itz El factorial de un numero entero positivo n se define como:
+//Itz El factorial de un numero entero positivo (natural) n se define como:
 //Itz n! = n*(n-1)*(n-2)*...*2*1.
 
 //* Indicaciones: Crear una funcion que al llamarla y darle como
