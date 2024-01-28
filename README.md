@@ -16,6 +16,7 @@ Estos no contienen más documentación más que los propios comentarios en cada 
     "italic": false
 },
 ```
+Estos programas son en esencia lo que eran hace tres años, pues han sido modificados a mi manera actual de programar.
 
 ## Compilar programas
 Primero tienes que clonar el repositorio:
