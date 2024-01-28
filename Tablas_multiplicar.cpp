@@ -28,10 +28,11 @@ int main() {
         for (int j = m_ini; j <= m_fin; j++) {
             Tablas << i << "x" << j << " = " << i*j << "\n";
         }
+        cout << "\n";
     }
     //? Cerramos el archivo
     Tablas.close();
-    
+
     return 0;
 }
 
