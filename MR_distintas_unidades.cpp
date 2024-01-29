@@ -15,7 +15,7 @@ int main(void) {
     //? Declaramos las variables que nos serviran mas adelante.
     double velocidad_m, t_h_total, t_horas, millas, kilometros, pasos_tot, paso;
     //? Definimos nuestras variales, la velocidad, el tamaño de paso, tiempo total,
-    //? tiempo inicial y numero total de pasos
+    //? tiempo inicial y numero total de pasos.
     velocidad_m = 55;
     paso = 0.5;
     t_h_total = 5;
@@ -31,7 +31,7 @@ int main(void) {
         t_horas += paso;
         millas = t_horas*55;
         kilometros = millas*1.609;
-        //? Imprimimos los resultados
+        //? Imprimimos los resultados.
         cout << millas << " millas o " << kilometros << " kilometros en " << t_horas <<" horas\n";
     }
 
