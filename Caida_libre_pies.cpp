@@ -2,11 +2,11 @@
 //Itz cual no es mas que un MRUA (Movimiento Rectilineo Uniformemente Acelerado)
 //Itz pero con a = g (aceleracion igual a g = 9.8 m/s^2 = 32 ft/s^2), para este programa
 //Itz queremos saber la distancia recorrida en un dt y la ditancia total
-//Itz entonces usaremos la ecuacion: h = v_o*t+0.5*g*t^2
+//Itz entonces usaremos la ecuacion: h = v_o*t+0.5*g*t^2.
 
 //* Indicaciones: crear una funcion general para MRUA y con esta, crear una 
 //* tabla con tres columas, t en segundos (con un paso de 1 segundo), 
-//* dh (altura recorrida en dt) y h (distancia total en t) estas en pies
+//* dh (altura recorrida en dt) y h (distancia total en t) estas en pies.
 
 #include <iostream>
 
